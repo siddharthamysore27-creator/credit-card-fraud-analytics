@@ -39,8 +39,8 @@ The final outcome is a **comprehensive fraud detection report** that presents th
 ---
 
 ## Repository Contents
- 
+- [Credit_Card_Fraud_Detection.pdf](Credit_Card_Fraud_Detection.pdf): Final project report
 
 ---
 
-👨‍💻 **Author**: Siddhartha Sumant Mysore  
+
